@@ -180,7 +180,7 @@ public class OperationsServer
 
 ## Client Diagram Class
 
-![Client Diagram](client_diagram_class.png)
+![Client Diagram](images/client_diagram_class.png)
 
 In the client, the interface `OperationsInterface` contains the definition of the methods to be consumed from the server.
 
@@ -279,7 +279,7 @@ public class OperationsClient
 
 - Process P0: Client 1
  
-![Process P0 Client 1](images/res_p0_client1)
+![Process P0 Client 1](images/res_p0_client1.png)
   
 - Process P1: Server
  
